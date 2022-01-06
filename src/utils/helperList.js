@@ -84,7 +84,7 @@ export const showcaseSkills = [
     {
       label: " Lybrate.com",
       imgSrc: "images/lybrate.png",
-      src: "",
+      src: "https://maheshvaitla.github.io/Lybrate-Website-Clone/frontend/landingpage.html",
       githubSrc: "https://github.com/m-sehrawat/Lybrate-Website-Clone-Version-2.0",
       description: "The website is a clone of Lybrate.com for online doctors appointment and purchasing health related products",
       stack: ["MongoDB","Express", "javascript", "HTML", "CSS",],
@@ -92,7 +92,7 @@ export const showcaseSkills = [
     {
       label: "Nordstrom",
       imgSrc: "images/Nordstorm.png",
-      src: "",
+      src: "https://maheshvaitla.github.io/Project_NordStorm/html/landingpage.html",
       githubSrc: "https://github.com/maheshvaitla/Project_NordStorm",
       description: "This is the clone of Nordstrom, E-commerce website which includes features such as login, singup, products , payment pages .",
       stack: [ "CSS", "JavaScript", "HTML"],
