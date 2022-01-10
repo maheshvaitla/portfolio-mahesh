@@ -87,7 +87,7 @@ export const showcaseSkills = [
       src: "https://maheshvaitla.github.io/Lybrate-Website-Clone/frontend/landingpage.html",
       githubSrc: "https://github.com/m-sehrawat/Lybrate-Website-Clone-Version-2.0",
       description: "The website is a clone of Lybrate.com for online doctors appointment and purchasing health related products",
-      stack: ["MongoDB","Express", "javascript", "HTML", "CSS",],
+      stack: ["https://img.icons8.com/color/480/000000/html-5--v1.png",],
     },
     {
       label: "Nordstrom",

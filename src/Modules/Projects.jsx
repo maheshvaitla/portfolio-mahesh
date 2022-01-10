@@ -2,6 +2,7 @@ import React, { Fragment } from "react";
 import CustomNav from "../Components/NavBar";
 import { Container, Row, Col, Badge, Button } from "react-bootstrap";
 import { projectsList } from "../utils/helperList";
+import { elementAcceptingRef } from "@mui/utils";
 
 const Projects = () => {
   return (
@@ -59,9 +60,7 @@ const Projects = () => {
                 )}
                 <div className="badgeDiv">
                   {proj.stack?.map((el) => (
-                    <Badge pill className="badge">
-                      {el}
-                    </Badge>
+                    <img src={el} alt={el} />
                   ))}
                 </div>
               </Col>
